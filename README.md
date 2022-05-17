@@ -1,7 +1,7 @@
 <h3 align=center> Hi there, I'm Derek. </h3>
 <p align=center> 
 I'm currently studying the PERN stack at a full stack web development bootcamp. <br>
-I am still working on my portfolio, but feel free to take a look at my work. 
+My portfolio is still a work in progress, but feel free to take a look around. 
 </p>
 
 <p align=center>
