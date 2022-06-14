@@ -1,4 +1,6 @@
 <h3 align=center> Hi there, I'm Derek. </h3>
+
+
 <p align=center> 
 I'm a recent graduate at a full stack web development bootcamp, and I've been working with React, PostgreSQL, and native JS/HTML/CSS. <br>
 I'm always open to learning new technologies, and I'm looking forward to help build tools that make life just a little bit more convenient.
@@ -9,5 +11,5 @@ I'm always open to learning new technologies, and I'm looking forward to help bu
 </div>
 
 <p align=center>
-You can reach out to me at <a href="mailto:luiderek@outlook.com">luiderek@outlook.com</a>, or connect with me on LinkedIn <a href="https://www.linkedin.com/in/derek-lui/"> here</a>.
+Contact me: <a href="mailto:luiderek@outlook.com">Email</a> • <a href="https://www.linkedin.com/in/derek-lui/">LinkedIn</a>
 </p>
