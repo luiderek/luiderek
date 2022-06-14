@@ -9,5 +9,5 @@ I'm always open to learning new technologies, and I'm looking forward to help bu
 </div>
 
 <p align=center>
-You can reach out to me at <a href="mailto:luiderek@outlook.com">luiderek@outlook.com</a>, or connect with me on LinkedIn <a href="https://www.linkedin.com/in/derek-lui/"> here.</a>
+You can reach out to me at <a href="mailto:luiderek@outlook.com">luiderek@outlook.com</a>, or connect with me on LinkedIn <a href="https://www.linkedin.com/in/derek-lui/"> here</a>.
 </p>
