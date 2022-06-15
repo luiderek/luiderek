@@ -1,6 +1,4 @@
-<h3 align="center">Hi there, I'm Derek.</h3>
-
------
+<h3 align="center">Hi there, I'm Derek.</h3> 
 
 <p align="center">
   I'm a recent graduate from a full stack bootcamp, and I've worked with React,
@@ -8,8 +6,6 @@
   I'm looking forward to learn new skills and to help build tools that make life
   just a little bit more convenient.
 </p>
-
------
 
 <table align="center">
   <tr>
@@ -48,8 +44,9 @@
   </tr>
 </table>
 
-<div align=center>
+<div align=right>
   <strong> Contact Me: </strong>
   <a href="mailto:luiderek@outlook.com">Email</a> •
   <a href="https://www.linkedin.com/in/derek-lui/">LinkedIn</a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 </div>
