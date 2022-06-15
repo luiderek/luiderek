@@ -14,7 +14,6 @@
 <table align="center">
   <tr>
     <td>
-<!--  hide_title=true removed      -->
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiderek&layout=compact&langs_count=4&theme=github_dark&title_color=C9D1D9&hide_border=true" />
     </td>
@@ -49,9 +48,8 @@
   </tr>
 </table>
 
-<h4 align=center> Contact Info </h4>
-
-<div align="center">
+<div align=center>
+  <strong> Contact Me: </strong>
   <a href="mailto:luiderek@outlook.com">Email</a> •
   <a href="https://www.linkedin.com/in/derek-lui/">LinkedIn</a>
 </div>
