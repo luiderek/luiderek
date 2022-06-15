@@ -22,7 +22,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiderek&layout=compact&langs_count=4&theme=github_dark&hide_title=true&hide_border=true" />
     </td>
     <td>
-        <div>💻 Currently Learning: Typescript, SASS, WebWorkers</div>
+        <div>💻 Currently Studying: Typescript, SASS, WebWorkers</div>
         <div>📚 Stack: React, JavaScript, CSS5, HTML5, Node.js, Express, PostgreSQL</div>
         <div>🛠 Tools: Bootstrap, npm, Babel, Webpack, Git, GitHub</div>
     </td>
