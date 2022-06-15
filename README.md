@@ -29,9 +29,8 @@
         &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Project Live Demos
       </h3>
       <div>
-        <a href="https://chat-concord.herokuapp.com/">Concord</a> 💬 • &nbsp;A
-        text chatroom discord clone, with a React frontend, and a backend of
-        Node, Express, and PostgreSQL.
+        <a href="https://chat-concord.herokuapp.com/">Concord</a> 💬 • &nbsp;A full stack
+        text chatroom discord clone, with React, Node, Express, and PostgreSQL.
       </div>
       <div>
         &nbsp; &nbsp;
