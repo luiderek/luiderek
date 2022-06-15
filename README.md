@@ -3,7 +3,7 @@
 <p align="center">
   I'm a recent graduate from a full stack bootcamp, and I've been working with React, JavaScript, and PostgreSQL.<br>
   I enjoy coding 💻, swing dancing 💃, and searching for the best tacos 🌮 within a 30 minute radius.<br>
-  I'm looking forward to learn new skills and to help build tools that make life just a little bit more convenient.<br>
+  I'm looking forward to learn new skills and to help build tools that make life a bit more convenient.<br>
 </p>
 
 ###
