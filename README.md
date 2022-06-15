@@ -33,7 +33,7 @@
         text chatroom discord clone, with React, Node, Express, and PostgreSQL.
       </div>
       <div>
-        &nbsp; &nbsp; &nbsp;
+        &nbsp;&nbsp;&nbsp;
         <a href="https://luiderek.github.io/ajax-project/">YALM</a> 📝 • &nbsp;A
         manga summary list maker SPA, with native JavaSript, HTML, CSS, and
         XMLHttpRequests.
