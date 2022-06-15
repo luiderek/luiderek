@@ -1,5 +1,7 @@
 <h3 align="center">Hi there, I'm Derek.</h3>
 
+-----
+
 <p align="center">
   I'm a recent graduate from a full stack bootcamp, and I've worked with React,
   PostgreSQL, and JavaScript.<br />
@@ -12,8 +14,9 @@
 <table align="center">
   <tr>
     <td>
+<!--  hide_title=true removed      -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiderek&layout=compact&langs_count=4&theme=github_dark&hide_title=true&hide_border=true" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiderek&layout=compact&langs_count=4&theme=github_dark&title_color=C9D1D9&hide_border=true" />
     </td>
     <td>
       <div>💻 Currently Studying: Typescript, SASS, WebWorkers</div>
