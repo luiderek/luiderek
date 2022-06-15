@@ -28,7 +28,7 @@
   <tr>
     <td colspan="2">
       <h3>
-        &nbsp; &nbsp; &nbsp;Project Live Demos
+        &nbsp; &nbsp; &nbsp;<ins>Project Live Demos</ins>
       </h3>
       <div>
         <a href="https://chat-concord.herokuapp.com/">Concord</a> 💬 • &nbsp;A full stack
