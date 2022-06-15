@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Derek.</h3> 
+<h3 align="center">👋 Hi there, I'm Derek. </h3> 
 
 <p align="center">
   I'm a recent graduate from a full stack bootcamp, and I've worked with React,
