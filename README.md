@@ -1,11 +1,13 @@
 <h3 align="center">👋 Hi there, I'm Derek. </h3> 
 
+---
+
 <p align="center">
-  I'm a recent graduate from a full stack bootcamp, and I've worked with React,
-  PostgreSQL, and JavaScript.<br />
-  I'm looking forward to learn new skills and to help build tools that make life
-  just a little bit more convenient.
+  I'm a recent graduate from a full stack bootcamp, and I've worked with React, PostgreSQL, and JavaScript.<br>
+  I'm looking forward to learn new skills and to help build tools that make life just a little bit more convenient.<br>
 </p>
+
+---
 
 <table align="center">
   <tr>
