@@ -3,7 +3,8 @@
 ---
 
 <p align="center">
-  I'm a recent graduate from a full stack bootcamp, and I've worked with React, PostgreSQL, and JavaScript.<br>
+  I'm a recent graduate from a full stack bootcamp, and I've been working with React, JavaScript, and PostgreSQL.<br>
+  I enjoy coding 💻, swing dancing 💃, and searching for the best tacos 🌮 within a 30 minute radius.<br>
   I'm looking forward to learn new skills and to help build tools that make life just a little bit more convenient.<br>
 </p>
 
@@ -16,11 +17,12 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiderek&layout=compact&langs_count=4&theme=github_dark&title_color=C9D1D9&hide_border=true" />
     </td>
     <td>
-      <div>💻 Studying: Typescript, SASS, WebWorkers</div>
+      <strong><ins>Skills and Tools</ins></strong>
       <div>
         📚 Stack: React, JavaScript, CSS5, HTML5, Node.js, Express, PostgreSQL
       </div>
       <div>🛠 Tools: Bootstrap, npm, Babel, Webpack, Git, GitHub</div>
+      <div>💻 Studying: Typescript, SASS, WebWorkers</div>
     </td>
   </tr>
   <tr></tr>
