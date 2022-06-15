@@ -39,7 +39,7 @@
       <div>
         &nbsp;&nbsp;&nbsp;
         <a href="https://luiderek.github.io/ajax-project/">YALM</a> 📝&nbsp;• &nbsp;A
-        manga summary list maker SPA, with native JavaSript, HTML, CSS, and
+        manga summary list maker SPA, with native JavaScript, HTML, CSS, and
         XMLHttpRequests.
       </div>
       <div>&nbsp;</div>
