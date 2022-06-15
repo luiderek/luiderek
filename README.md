@@ -48,5 +48,4 @@
   <strong> Contact Me: </strong>
   <a href="mailto:luiderek@outlook.com">Email</a> •
   <a href="https://www.linkedin.com/in/derek-lui/">LinkedIn</a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 </div>
