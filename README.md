@@ -34,7 +34,7 @@
       </div>
       <div>
         &nbsp;&nbsp;&nbsp;
-        <a href="https://luiderek.github.io/ajax-project/">YALM</a> 📝 • &nbsp;A
+        <a href="https://luiderek.github.io/ajax-project/">YALM</a> 📝 • &nbsp;&nbsp;A
         manga summary list maker SPA, with native JavaSript, HTML, CSS, and
         XMLHttpRequests.
       </div>
