@@ -10,11 +10,13 @@
 
 <table align="center">
   <tr>
+  <!--- 
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiderek&layout=compact&langs_count=4&theme=github_dark&title_color=C9D1D9&hide_border=true" />
     </td>
     <td>
+    --->
       <strong><ins>Skills and Tools</ins></strong>
       <div>
         📚 Stack: React, JavaScript, CSS5, HTML5, Node.js, Express, PostgreSQL
