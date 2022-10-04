@@ -8,6 +8,7 @@
 
 ###
 
+
 <table align="center">
   <tr>
   <!--- 
@@ -17,7 +18,9 @@
     </td>
     <td>
     --->
-      <strong><ins>Skills and Tools</ins></strong>
+      <h3>
+     &nbsp; &nbsp; &nbsp;<ins>Skills and Tools</ins>
+    </h3>
       <div>
         📚 Stack: React, JavaScript, CSS5, HTML5, Node.js, Express, PostgreSQL
       </div>
@@ -28,7 +31,6 @@
   <tr></tr>
   <!-- Empty table row to avoid the whole "every other" table styling effect -->
   <tr>
-    <td colspan="2">
       <h3>
         &nbsp; &nbsp; &nbsp;<ins>Project Live Demos</ins>
       </h3>
@@ -42,8 +44,6 @@
         manga summary list maker SPA, with native JavaScript, HTML, CSS, and
         XMLHttpRequests.
       </div>
-      <div>&nbsp;</div>
-    </td>
   </tr>
 </table>
 
